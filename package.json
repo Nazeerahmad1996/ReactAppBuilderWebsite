@@ -1,0 +1,44 @@
+{
+  "name": "fireadmin",
+  "version": "10.2.0",
+  "private": true,
+  "dependencies": {
+    "circular-json": "0.5.9",
+    "draft-js": "0.10.1",
+    "draftjs-to-html": "0.7.2",
+    "firebase": "5.8.1",
+    "halogen": "0.2.0",
+    "html-to-draftjs": "1.4.0",
+    "js-file-download": "0.4.1",
+    "match-sorter": "2.3.0",
+    "md5": "2.2.1",
+    "mobidonia-firebase-paginator": "1.1.1",
+    "moment": "2.23.0",
+    "react": "15.4.2",
+    "react-color": "2.13.5",
+    "react-datetime": "2.15.0",
+    "react-dom": "15.4.2",
+    "react-draft-wysiwyg": "1.10.4",
+    "react-google-maps": "9.2.2",
+    "react-icons": "3.1.0",
+    "react-localize-redux": "3.5.1",
+    "react-router": "3.0.2",
+    "react-selectable-fast": "2.1.2",
+    "react-skylight": "0.4.2",
+    "react-sortable-hoc": "0.6.8",
+    "react-sortable-tree": "2.2.0",
+    "react-table": "6.8.6",
+    "recompose": "0.26.0",
+    "superagent": "3.5.1",
+    "to-case": "2.0.0"
+  },
+  "devDependencies": {
+    "react-scripts": "0.9.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
